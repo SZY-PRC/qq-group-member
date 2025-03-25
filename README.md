@@ -4,7 +4,7 @@ QQ群成员 号码 批量导出 （仅QQ号）QQ Group Members Export
 
 https://qun.qq.com/member.html
 
-登录后选好要导出的群
+登录后选好要导出的群（鼠标滚动到最下后再进行下面操作）
 
 按F12在控制台输入
 
